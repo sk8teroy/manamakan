@@ -1,0 +1,1512 @@
+[
+    {
+      "triggers": [
+        "makanmana",
+        "makan mana",
+        "mana makan",
+        "mana lunch",
+        "dmna lunch",
+        "mna lunch",
+        "mkn mana",
+        "mana mkn",
+        "where eat",
+        "eat where"
+      ],
+      "replies": 
+        [
+          {
+              "reply": "* CA Mohamad",
+              "type": "text"
+          },
+          {
+              "reply": "* TK menglait ",
+              "type": "text"
+          },
+          {
+              "reply": "* KKKoya",
+              "type": "text"
+          },
+          {
+              "reply": "* Soto pabo",
+              "type": "text"
+          },
+          {
+              "reply": "* Borneo kopitiam",
+              "type": "text"
+          },
+          {
+              "reply": "* Ayamku",
+              "type": "text"
+          },
+          {
+              "reply": "* Jollibee",
+              "type": "text"
+          },
+          {
+              "reply": "* Universal Cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* Jing Chew ",
+              "type": "text"
+          },
+          {
+              "reply": "* That breakfast place above wywy",
+              "type": "text"
+          },
+          {
+              "reply": "* Serikandi kebab",
+              "type": "text"
+          },
+          {
+              "reply": "* My village kopitiam ",
+              "type": "text"
+          },
+          {
+              "reply": "* Pasar malam gadong",
+              "type": "text"
+          },
+          {
+              "reply": "* Sempurna",
+              "type": "text"
+          },
+          {
+              "reply": "* Teazone",
+              "type": "text"
+          },
+          {
+              "reply": "* A. Ayam",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠My Town",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Liyana Restaurant",
+              "type": "text"
+          },
+          {
+              "reply": "* Pondok Sari Wangi",
+              "type": "text"
+          },
+          {
+              "reply": "* Kung fu noodle",
+              "type": "text"
+          },
+          {
+              "reply": "* O’ tacos",
+              "type": "text"
+          },
+          {
+              "reply": "* Amsarra Lebanese",
+              "type": "text"
+          },
+          {
+              "reply": "* Iskandar house of curry ",
+              "type": "text"
+          },
+          {
+              "reply": "* Fooddigger (KB) 👍🏻",
+              "type": "text"
+          },
+          {
+              "reply": "* i Say Yatta!",
+              "type": "text"
+          },
+          {
+              "reply": "* Kedai kopi dharith",
+              "type": "text"
+          },
+          {
+              "reply": "* Country patch",
+              "type": "text"
+          },
+          {
+              "reply": "* Chill v",
+              "type": "text"
+          },
+          {
+              "reply": "* Margherita",
+              "type": "text"
+          },
+          {
+              "reply": "* Healthy habit (fuel’d)",
+              "type": "text"
+          },
+          {
+              "reply": "* Mcd",
+              "type": "text"
+          },
+          {
+              "reply": "* Jolibee",
+              "type": "text"
+          },
+          {
+              "reply": "* Geo eats",
+              "type": "text"
+          },
+          {
+              "reply": "* Ideal",
+              "type": "text"
+          },
+          {
+              "reply": "* Bus 365",
+              "type": "text"
+          },
+          {
+              "reply": "* Lee loi fat",
+              "type": "text"
+          },
+          {
+              "reply": "* Rajah Restaurant ( Banana leaf rice)",
+              "type": "text"
+          },
+          {
+              "reply": "* Pizza Hut",
+              "type": "text"
+          },
+          {
+              "reply": "* Lemongrass",
+              "type": "text"
+          },
+          {
+              "reply": "* Nurwanita",
+              "type": "text"
+          },
+          {
+              "reply": "* Brukori (Korean stall)",
+              "type": "text"
+          },
+          {
+              "reply": "* Gwad basha ",
+              "type": "text"
+          },
+          {
+              "reply": "* Wing it 👎🏽",
+              "type": "text"
+          },
+          {
+              "reply": "* Happy Dean",
+              "type": "text"
+          },
+          {
+              "reply": "* GK",
+              "type": "text"
+          },
+          {
+              "reply": "* Cheezbox",
+              "type": "text"
+          },
+          {
+              "reply": "* London kebab",
+              "type": "text"
+          },
+          {
+              "reply": "* Siti Rabiah ",
+              "type": "text"
+          },
+          {
+              "reply": "* Nanyang Food Garden",
+              "type": "text"
+          },
+          {
+              "reply": "* Eats.bn",
+              "type": "text"
+          },
+          {
+              "reply": "* B cafe and grill (@the.b_bn)",
+              "type": "text"
+          },
+          {
+              "reply": "* Nanyang &amp; Da On Korean restaurant ",
+              "type": "text"
+          },
+          {
+              "reply": "* Koryo",
+              "type": "text"
+          },
+          {
+              "reply": "* Sarang",
+              "type": "text"
+          },
+          {
+              "reply": "* Pan and Wok",
+              "type": "text"
+          },
+          {
+              "reply": "* Pho Hoa",
+              "type": "text"
+          },
+          {
+              "reply": "* Gerai de Ceria",
+              "type": "text"
+          },
+          {
+              "reply": "* Coco Cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* Saffira cake house",
+              "type": "text"
+          },
+          {
+              "reply": "* Tuckshop",
+              "type": "text"
+          },
+          {
+              "reply": "* De olde cottage",
+              "type": "text"
+          },
+          {
+              "reply": "* Le taj",
+              "type": "text"
+          },
+          {
+              "reply": "* Sushi tei",
+              "type": "text"
+          },
+          {
+              "reply": "* Seri Damai Pakistani Restaurant",
+              "type": "text"
+          },
+          {
+              "reply": "* Tarindak Polo Beach club",
+              "type": "text"
+          },
+          {
+              "reply": "* Lotus",
+              "type": "text"
+          },
+          {
+              "reply": "* Maharaja",
+              "type": "text"
+          },
+          {
+              "reply": "* Fez &amp; chip (fish &amp; chips)",
+              "type": "text"
+          },
+          {
+              "reply": "* Ricebowl",
+              "type": "text"
+          },
+          {
+              "reply": "* Food house eatery ",
+              "type": "text"
+          },
+          {
+              "reply": "* ABC eats brunei ",
+              "type": "text"
+          },
+          {
+              "reply": "* 8 bytes cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* Breakfast at home bn",
+              "type": "text"
+          },
+          {
+              "reply": "* West street cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* Burgs Bn",
+              "type": "text"
+          },
+          {
+              "reply": "* Topnosh",
+              "type": "text"
+          },
+          {
+              "reply": "* Rasa Chicken",
+              "type": "text"
+          },
+          {
+              "reply": "* Soto Gagawi",
+              "type": "text"
+          },
+          {
+              "reply": "* De Ceriaa",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Wings and Drumettes",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Bann Nucha",
+              "type": "text"
+          },
+          {
+              "reply": "* Ah Mit's Delicacy",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Wangs Kitchen",
+              "type": "text"
+          },
+          {
+              "reply": "* Belluno",
+              "type": "text"
+          },
+          {
+              "reply": "* Bus station cafe ",
+              "type": "text"
+          },
+          {
+              "reply": "* Bello ",
+              "type": "text"
+          },
+          {
+              "reply": "* Ximply Chriz",
+              "type": "text"
+          },
+          {
+              "reply": "* Kimchi ",
+              "type": "text"
+          },
+          {
+              "reply": "* Fratini’s",
+              "type": "text"
+          },
+          {
+              "reply": "* Flour &amp; butter",
+              "type": "text"
+          },
+          {
+              "reply": "* Kaizen",
+              "type": "text"
+          },
+          {
+              "reply": "* Excapade",
+              "type": "text"
+          },
+          {
+              "reply": "* Chatto",
+              "type": "text"
+          },
+          {
+              "reply": "* Noice",
+              "type": "text"
+          },
+          {
+              "reply": "* Le Keris",
+              "type": "text"
+          },
+          {
+              "reply": "* Tandoor",
+              "type": "text"
+          },
+          {
+              "reply": "* Rack and brew",
+              "type": "text"
+          },
+          {
+              "reply": "* Chois topokki ",
+              "type": "text"
+          },
+          {
+              "reply": "* Iron Chef",
+              "type": "text"
+          },
+          {
+              "reply": "* Berqat",
+              "type": "text"
+          },
+          {
+              "reply": "* Little Audrey",
+              "type": "text"
+          },
+          {
+              "reply": "* Bake 250",
+              "type": "text"
+          },
+          {
+              "reply": "* Verve",
+              "type": "text"
+          },
+          {
+              "reply": "* Twelve cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* Balkony",
+              "type": "text"
+          },
+          {
+              "reply": "* Sulbingsoo",
+              "type": "text"
+          },
+          {
+              "reply": "* Pattaya restaurant (kota batu) 👍🏽",
+              "type": "text"
+          },
+          {
+              "reply": "* London cafe restaurant",
+              "type": "text"
+          },
+          {
+              "reply": "* Pepper lunch ",
+              "type": "text"
+          },
+          {
+              "reply": "* Buffalo Steak House",
+              "type": "text"
+          },
+          {
+              "reply": "* Sisu Cafe bn",
+              "type": "text"
+          },
+          {
+              "reply": "* Amsarra Ramen and Grill",
+              "type": "text"
+          },
+          {
+              "reply": "* Dashi",
+              "type": "text"
+          },
+          {
+              "reply": "* Aomori Ramen",
+              "type": "text"
+          },
+          {
+              "reply": "* Empire",
+              "type": "text"
+          },
+          {
+              "reply": "* Lobby Restaurant ",
+              "type": "text"
+          },
+          {
+              "reply": "* Spaghettini",
+              "type": "text"
+          },
+          {
+              "reply": "* Pantai Restaurant ",
+              "type": "text"
+          },
+          {
+              "reply": "* Li Gong",
+              "type": "text"
+          },
+          {
+              "reply": "* Alter ego",
+              "type": "text"
+          },
+          {
+              "reply": "* Senja",
+              "type": "text"
+          },
+          {
+              "reply": "* Jazz bar",
+              "type": "text"
+          },
+          {
+              "reply": "* Rack n brew",
+              "type": "text"
+          },
+          {
+              "reply": "* The colony tearoom",
+              "type": "text"
+          },
+          {
+              "reply": "* Area 8 surf &amp; turf",
+              "type": "text"
+          },
+          {
+              "reply": "* Edenhouse.bn",
+              "type": "text"
+          },
+          {
+              "reply": "* Riwaz (Radisson)",
+              "type": "text"
+          },
+          {
+              "reply": "* High frequency",
+              "type": "text"
+          },
+          {
+              "reply": "* Traders Inn",
+              "type": "text"
+          },
+          {
+              "reply": "* TK Muara, Kiarong, Gadong",
+              "type": "text"
+          },
+          {
+              "reply": "* Big Mama",
+              "type": "text"
+          },
+          {
+              "reply": "* Kuey Chap - sometimes?",
+              "type": "text"
+          },
+          {
+              "reply": "* Semporna",
+              "type": "text"
+          },
+          {
+              "reply": "* Old Klang ",
+              "type": "text"
+          },
+          {
+              "reply": "* Bali Paradise ",
+              "type": "text"
+          },
+          {
+              "reply": "* Starbucks",
+              "type": "text"
+          },
+          {
+              "reply": "* Coffeebean",
+              "type": "text"
+          },
+          {
+              "reply": "* Roasted Sip",
+              "type": "text"
+          },
+          {
+              "reply": "* Wildflower",
+              "type": "text"
+          },
+          {
+              "reply": "* Kapra",
+              "type": "text"
+          },
+          {
+              "reply": "* Krema",
+              "type": "text"
+          },
+          {
+              "reply": "* Matcha Mana",
+              "type": "text"
+          },
+          {
+              "reply": "* Piccolo",
+              "type": "text"
+          },
+          {
+              "reply": "* Netflix and",
+              "type": "text"
+          },
+          {
+              "reply": "* T lounge",
+              "type": "text"
+          },
+          {
+              "reply": "* Ximply Chris 1Riverside",
+              "type": "text"
+          },
+          {
+              "reply": "* Serenity by Berqat",
+              "type": "text"
+          },
+          {
+              "reply": "* The greats catsby ",
+              "type": "text"
+          },
+          {
+              "reply": "* Hooked ",
+              "type": "text"
+          },
+          {
+              "reply": "* Two sons",
+              "type": "text"
+          },
+          {
+              "reply": "* Chatramue",
+              "type": "text"
+          },
+          {
+              "reply": "* Lulu Tea",
+              "type": "text"
+          },
+          {
+              "reply": "* Easyway ",
+              "type": "text"
+          },
+          {
+              "reply": "* Gongcha Serusop",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Kupipiks",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠High frequency",
+              "type": "text"
+          },
+          {
+              "reply": "* Verve",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Macchiato Cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Triggered Cafe ",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Ri’s cafe ",
+              "type": "text"
+          },
+          {
+              "reply": "* Mr Baker’s cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Coffee by 7t1",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Batches coffee",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Coffee field",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Dil Coffee ",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Coffee talk Bn ",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠934 cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* ⁠Nerdee Cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* Nulhajika",
+              "type": "text"
+          },
+          {
+              "reply": "* Buccaneer",
+              "type": "text"
+          },
+          {
+              "reply": "* Tez Amore ",
+              "type": "text"
+          },
+          {
+              "reply": "* Malabar ",
+              "type": "text"
+          },
+          {
+              "reply": "* Kk koya ",
+              "type": "text"
+          },
+          {
+              "reply": "* Ice bar shabu shabu ",
+              "type": "text"
+          },
+          {
+              "reply": "* Vplaza ",
+              "type": "text"
+          },
+          {
+              "reply": "* Bus station cafe ",
+              "type": "text"
+          },
+          {
+              "reply": "* Wywy ",
+              "type": "text"
+          },
+          {
+              "reply": "* Marilyn cafe ",
+              "type": "text"
+          },
+          {
+              "reply": "* Rock garden ",
+              "type": "text"
+          },
+          {
+              "reply": "* Starbucks ",
+              "type": "text"
+          },
+          {
+              "reply": "* Coffee bean ",
+              "type": "text"
+          },
+          {
+              "reply": "* KB SENTRAL ",
+              "type": "text"
+          },
+          {
+              "reply": "* Little John bean ",
+              "type": "text"
+          },
+          {
+              "reply": "* Beanery ",
+              "type": "text"
+          },
+          {
+              "reply": "* Chicken rice shop ",
+              "type": "text"
+          },
+          {
+              "reply": "* Seri Kandi shawarma/kebab ",
+              "type": "text"
+          },
+          {
+              "reply": "* Corner house",
+              "type": "text"
+          },
+          {
+              "reply": "* Universal cafe ",
+              "type": "text"
+          },
+          {
+              "reply": "* Yung peng (simpur) ",
+              "type": "text"
+          },
+          {
+              "reply": "* Ah Tong ",
+              "type": "text"
+          },
+          {
+              "reply": "* Zuki ",
+              "type": "text"
+          },
+          {
+              "reply": "* Excapde ",
+              "type": "text"
+          },
+          {
+              "reply": "* Kaizen ",
+              "type": "text"
+          },
+          {
+              "reply": "* Jollibee ",
+              "type": "text"
+          },
+          {
+              "reply": "* KFC ",
+              "type": "text"
+          },
+          {
+              "reply": "* Burger King ",
+              "type": "text"
+          },
+          {
+              "reply": "* Nur Wanita ",
+              "type": "text"
+          },
+          {
+              "reply": "* Ayamku ",
+              "type": "text"
+          },
+          {
+              "reply": "* Zaika ",
+              "type": "text"
+          },
+          {
+              "reply": "* Tandoor palace ",
+              "type": "text"
+          },
+          {
+              "reply": "* Food digger ",
+              "type": "text"
+          },
+          {
+              "reply": "* Wings n grills ",
+              "type": "text"
+          },
+          {
+              "reply": "* Awira bbq ",
+              "type": "text"
+          },
+          {
+              "reply": "* Teko kitchen ",
+              "type": "text"
+          },
+          {
+              "reply": "* Once upon a burger ",
+              "type": "text"
+          },
+          {
+              "reply": "* Red rooster",
+              "type": "text"
+          },
+          {
+              "reply": "* Derma wangsa steam boat ",
+              "type": "text"
+          },
+          {
+              "reply": "* Ricardos",
+              "type": "text"
+          },
+          {
+              "reply": "* The food RV",
+              "type": "text"
+          },
+          {
+              "reply": "* Sham’s BBQ &amp; Grill",
+              "type": "text"
+          },
+          {
+              "reply": "* Thecornerhousebn",
+              "type": "text"
+          },
+          {
+              "reply": "* Azul panaga",
+              "type": "text"
+          },
+          {
+              "reply": "* Thefoodrv_ (KB) ",
+              "type": "text"
+          },
+          {
+              "reply": "* Rumaku adresto (Kampung Ayer) ",
+              "type": "text"
+          },
+          {
+              "reply": "* Laestuary ",
+              "type": "text"
+          },
+          {
+              "reply": "* Thehideout ",
+              "type": "text"
+          },
+          {
+              "reply": "* Roots_bn",
+              "type": "text"
+          },
+          {
+              "reply": "* Rasa idaman ",
+              "type": "text"
+          },
+          {
+              "reply": "* Axtivo kafe &amp; restoran sdn bhd",
+              "type": "text"
+          },
+          {
+              "reply": "* Kitchen table",
+              "type": "text"
+          },
+          {
+              "reply": "* Ghurka palace (seria)",
+              "type": "text"
+          },
+          {
+              "reply": "* Blue restaurant",
+              "type": "text"
+          },
+          {
+              "reply": "* Fez &amp; chip ",
+              "type": "text"
+          },
+          {
+              "reply": "* ARS",
+              "type": "text"
+          },
+          {
+              "reply": "* Spices",
+              "type": "text"
+          },
+          {
+              "reply": "* 101 kopitiam/cafe",
+              "type": "text"
+          },
+          {
+              "reply": "* Hans coffee shop",
+              "type": "text"
+          },
+          {
+              "reply": "* Glow cafe RGC ",
+              "type": "text"
+          }
+      ]
+  
+    },
+    {
+        "triggers": [
+          "makanmana broke",
+          "makan mana broke",
+          "mana makan broke",
+          "mana lunch broke",
+          "dmna lunch broke",
+          "mna lunch broke",
+          "mkn mana broke",
+          "mana mkn broke",
+          "where eat broke",
+          "eat where broke"
+        ],
+        "replies": 
+          [
+            {
+                "reply": "* CA Mohamad",
+                "type": "text"
+            },
+            {
+                "reply": "* TK menglait ",
+                "type": "text"
+            },
+            {
+                "reply": "* KKKoya",
+                "type": "text"
+            },
+            {
+                "reply": "* Soto pabo",
+                "type": "text"
+            },
+            {
+                "reply": "* Borneo kopitiam",
+                "type": "text"
+            },
+            {
+                "reply": "* Ayamku",
+                "type": "text"
+            },
+            {
+                "reply": "* Jollibee",
+                "type": "text"
+            },
+            {
+                "reply": "* Universal Cafe",
+                "type": "text"
+            },
+            {
+                "reply": "* Jing Chew ",
+                "type": "text"
+            },
+            {
+                "reply": "* That breakfast place above wywy",
+                "type": "text"
+            },
+            {
+                "reply": "* Serikandi kebab",
+                "type": "text"
+            },
+            {
+                "reply": "* My village kopitiam ",
+                "type": "text"
+            },
+            {
+                "reply": "* Pasar malam gadong",
+                "type": "text"
+            },
+            {
+                "reply": "* Sempurna",
+                "type": "text"
+            },
+            {
+                "reply": "* Teazone",
+                "type": "text"
+            },
+            {
+                "reply": "* A. Ayam",
+                "type": "text"
+            },
+            {
+                "reply": "* ⁠My Town",
+                "type": "text"
+            },
+            {
+                "reply": "* ⁠Liyana Restaurant",
+                "type": "text"
+            }
+        ]
+      },
+      {
+        "triggers": [
+          "makanmana med",
+          "makan mana med",
+          "mana makan med",
+          "mana lunch med",
+          "dmna lunch med",
+          "mna lunch med",
+          "mkn mana med",
+          "mana mkn med",
+          "where eat med",
+          "eat where med"
+        ],
+        "replies": 
+          [
+            {
+                "reply": "* Pondok Sari Wangi",
+                "type": "text"
+            },
+            {
+                "reply": "* Kung fu noodle",
+                "type": "text"
+            },
+            {
+                "reply": "* O’ tacos",
+                "type": "text"
+            },
+            {
+                "reply": "* Amsarra Lebanese",
+                "type": "text"
+            },
+            {
+                "reply": "* Iskandar house of curry ",
+                "type": "text"
+            },
+            {
+                "reply": "* Fooddigger (KB) 👍🏻",
+                "type": "text"
+            },
+            {
+                "reply": "* i Say Yatta!",
+                "type": "text"
+            },
+            {
+                "reply": "* Kedai kopi dharith",
+                "type": "text"
+            },
+            {
+                "reply": "* Country patch",
+                "type": "text"
+            },
+            {
+                "reply": "* Chill v",
+                "type": "text"
+            },
+            {
+                "reply": "* Margherita",
+                "type": "text"
+            },
+            {
+                "reply": "* Healthy habit (fuel’d)",
+                "type": "text"
+            },
+            {
+                "reply": "* Mcd",
+                "type": "text"
+            },
+            {
+                "reply": "* Jolibee",
+                "type": "text"
+            },
+            {
+                "reply": "* Geo eats",
+                "type": "text"
+            },
+            {
+                "reply": "* Ideal",
+                "type": "text"
+            },
+            {
+                "reply": "* Bus 365",
+                "type": "text"
+            },
+            {
+                "reply": "* Lee loi fat",
+                "type": "text"
+            },
+            {
+                "reply": "* Rajah Restaurant ( Banana leaf rice)",
+                "type": "text"
+            },
+            {
+                "reply": "* Pizza Hut",
+                "type": "text"
+            },
+            {
+                "reply": "* Lemongrass",
+                "type": "text"
+            },
+            {
+                "reply": "* Nurwanita",
+                "type": "text"
+            },
+            {
+                "reply": "* Brukori (Korean stall)",
+                "type": "text"
+            },
+            {
+                "reply": "* Gwad basha ",
+                "type": "text"
+            },
+            {
+                "reply": "* Wing it 👎🏽",
+                "type": "text"
+            },
+            {
+                "reply": "* Happy Dean",
+                "type": "text"
+            },
+            {
+                "reply": "* GK",
+                "type": "text"
+            },
+            {
+                "reply": "* Cheezbox",
+                "type": "text"
+            },
+            {
+                "reply": "* London kebab",
+                "type": "text"
+            },
+            {
+                "reply": "* Siti Rabiah ",
+                "type": "text"
+            },
+            {
+                "reply": "* Nanyang Food Garden",
+                "type": "text"
+            },
+            {
+                "reply": "* Eats.bn",
+                "type": "text"
+            },
+            {
+                "reply": "* B cafe and grill (@the.b_bn)",
+                "type": "text"
+            },
+            {
+                "reply": "* Nanyang &amp; Da On Korean restaurant ",
+                "type": "text"
+            },
+            {
+                "reply": "* Koryo",
+                "type": "text"
+            },
+            {
+                "reply": "* Sarang",
+                "type": "text"
+            },
+            {
+                "reply": "* Pan and Wok",
+                "type": "text"
+            },
+            {
+                "reply": "* Pho Hoa",
+                "type": "text"
+            },
+            {
+                "reply": "* Gerai de Ceria",
+                "type": "text"
+            },
+            {
+                "reply": "* Coco Cafe",
+                "type": "text"
+            },
+            {
+                "reply": "* Saffira cake house",
+                "type": "text"
+            },
+            {
+                "reply": "* Tuckshop",
+                "type": "text"
+            },
+            {
+                "reply": "* De olde cottage",
+                "type": "text"
+            },
+            {
+                "reply": "* Le taj",
+                "type": "text"
+            },
+            {
+                "reply": "* Sushi tei",
+                "type": "text"
+            },
+            {
+                "reply": "* Seri Damai Pakistani Restaurant",
+                "type": "text"
+            },
+            {
+                "reply": "* Tarindak Polo Beach club",
+                "type": "text"
+            },
+            {
+                "reply": "* Lotus",
+                "type": "text"
+            },
+            {
+                "reply": "* Maharaja",
+                "type": "text"
+            },
+            {
+                "reply": "* Fez &amp; chip (fish &amp; chips)",
+                "type": "text"
+            },
+            {
+                "reply": "* Ricebowl",
+                "type": "text"
+            },
+            {
+                "reply": "* Food house eatery ",
+                "type": "text"
+            },
+            {
+                "reply": "* ABC eats brunei ",
+                "type": "text"
+            },
+            {
+                "reply": "* 8 bytes cafe",
+                "type": "text"
+            },
+            {
+                "reply": "* Breakfast at home bn",
+                "type": "text"
+            },
+            {
+                "reply": "* West street cafe",
+                "type": "text"
+            },
+            {
+                "reply": "* Burgs Bn",
+                "type": "text"
+            },
+            {
+                "reply": "* Topnosh",
+                "type": "text"
+            },
+            {
+                "reply": "* Rasa Chicken",
+                "type": "text"
+            },
+            {
+                "reply": "* Soto Gagawi",
+                "type": "text"
+            },
+            {
+                "reply": "* De Ceriaa",
+                "type": "text"
+            },
+            {
+                "reply": "* ⁠Wings and Drumettes",
+                "type": "text"
+            },
+            {
+                "reply": "* ⁠Bann Nucha",
+                "type": "text"
+            },
+            {
+                "reply": "* Ah Mit's Delicacy",
+                "type": "text"
+            },
+            {
+                "reply": "* ⁠Wangs Kitchen",
+                "type": "text"
+            }
+        ]
+      },
+      {
+        "triggers": [
+          "makanmana med high",
+          "makan mana med high",
+          "mana makan med high",
+          "mana lunch med high",
+          "dmna lunch med high",
+          "mna lunch med high",
+          "mkn mana med high",
+          "mana mkn med high",
+          "where eat med high",
+          "eat where med high"
+        ],
+        "replies": 
+          [
+            {
+                "reply": "* Belluno",
+                "type": "text"
+            },
+            {
+                "reply": "* Bus station cafe ",
+                "type": "text"
+            },
+            {
+                "reply": "* Bello ",
+                "type": "text"
+            },
+            {
+                "reply": "* Ximply Chriz",
+                "type": "text"
+            },
+            {
+                "reply": "* Kimchi ",
+                "type": "text"
+            },
+            {
+                "reply": "* Fratini’s",
+                "type": "text"
+            },
+            {
+                "reply": "* Flour &amp; butter",
+                "type": "text"
+            },
+            {
+                "reply": "* Kaizen",
+                "type": "text"
+            },
+            {
+                "reply": "* Excapade",
+                "type": "text"
+            },
+            {
+                "reply": "* Chatto",
+                "type": "text"
+            },
+            {
+                "reply": "* Noice",
+                "type": "text"
+            },
+            {
+                "reply": "* Le Keris",
+                "type": "text"
+            },
+            {
+                "reply": "* Tandoor",
+                "type": "text"
+            },
+            {
+                "reply": "* Rack and brew",
+                "type": "text"
+            },
+            {
+                "reply": "* Chois topokki ",
+                "type": "text"
+            },
+            {
+                "reply": "* Iron Chef",
+                "type": "text"
+            },
+            {
+                "reply": "* Berqat",
+                "type": "text"
+            },
+            {
+                "reply": "* Little Audrey",
+                "type": "text"
+            },
+            {
+                "reply": "* Bake 250",
+                "type": "text"
+            },
+            {
+                "reply": "* Verve",
+                "type": "text"
+            },
+            {
+                "reply": "* Twelve cafe",
+                "type": "text"
+            },
+            {
+                "reply": "* Balkony",
+                "type": "text"
+            },
+            {
+                "reply": "* Sulbingsoo",
+                "type": "text"
+            },
+            {
+                "reply": "* Pattaya restaurant (kota batu) 👍🏽",
+                "type": "text"
+            },
+            {
+                "reply": "* London cafe restaurant",
+                "type": "text"
+            },
+            {
+                "reply": "* Pepper lunch ",
+                "type": "text"
+            },
+            {
+                "reply": "* Buffalo Steak House",
+                "type": "text"
+            },
+            {
+                "reply": "* Sisu Cafe bn",
+                "type": "text"
+            },
+            {
+                "reply": "* Amsarra Ramen and Grill",
+                "type": "text"
+            },
+            {
+                "reply": "* Dashi",
+                "type": "text"
+            },
+            {
+                "reply": "* Aomori Ramen",
+                "type": "text"
+            }
+        ]
+      },
+      {
+        "triggers": [
+          "makanmana baller",
+          "makan mana baller",
+          "mana makan baller",
+          "mana lunch baller",
+          "dmna lunch baller",
+          "mna lunch baller",
+          "mkn mana baller",
+          "mana mkn baller",
+          "where eat baller",
+          "eat where baller"
+        ],
+        "replies": 
+          [
+            {
+                "reply": "* Empire",
+                "type": "text"
+            },
+            {
+                "reply": "* Lobby Restaurant ",
+                "type": "text"
+            },
+            {
+                "reply": "* Spaghettini",
+                "type": "text"
+            },
+            {
+                "reply": "* Pantai Restaurant ",
+                "type": "text"
+            },
+            {
+                "reply": "* Li Gong",
+                "type": "text"
+            },
+            {
+                "reply": "* Alter ego",
+                "type": "text"
+            },
+            {
+                "reply": "* Senja",
+                "type": "text"
+            },
+            {
+                "reply": "* Jazz bar",
+                "type": "text"
+            },
+            {
+                "reply": "* Rack n brew",
+                "type": "text"
+            },
+            {
+                "reply": "* The colony tearoom",
+                "type": "text"
+            },
+            {
+                "reply": "* Area 8 surf &amp; turf",
+                "type": "text"
+            },
+            {
+                "reply": "* Edenhouse.bn",
+                "type": "text"
+            },
+            {
+                "reply": "* Riwaz (Radisson)",
+                "type": "text"
+            },
+            {
+                "reply": "* High frequency",
+                "type": "text"
+            }
+        ]
+      }
+  ]
